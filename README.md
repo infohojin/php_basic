@@ -1,2 +1,7 @@
-JINY PHP BOOK
-Study Sample Source
+기초탄탄 PHP 예제소스
+저자: 이호진
+
+책 예제소스 및 참고자료를 위한 깃허브 저장소 입니다.
+
+잘못된 부분이나 동작이 안되는 소스가 있을 경우 infohojin@naver.com으로 연락 주시면
+검토후에 수정하도록 하겠습니다.
